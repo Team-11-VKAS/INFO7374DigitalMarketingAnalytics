@@ -31,6 +31,7 @@ We are using collaborative filtering for building the recommendation system.is a
 
 # Dashboards
 We are using Salesforce Einstein Analytics for building different dashboards for the client.
+https://github.com/Team-11-VKAS/INFO7374DigitalMarketingAnalytics/blob/master/Assignment2/Images/Campaign_Details.png
 
 # Stories – We explored stories that are also provided by Einstien Analytics Studio.
 
