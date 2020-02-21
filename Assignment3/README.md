@@ -11,4 +11,4 @@ a. Diminishing Returns: The underlying principle for TV advertisement is that th
 b. Carry over effect or Decay Effect: The impact of past advertisement on present sales is known as Carry over effect. A small component termed as lambda is multiplied with the past month GRP value. This component is also known as Decay effect as the impact of previous months’ advertisement decays over time.
 
 # Relation of sales to weeks
- ![Alt Text](Assignment3/images/basesales-week.PNG)
+ ![](https://github.com/Team-11-VKAS/INFO7374DigitalMarketingAnalytics/blob/master/Assignment3/images/basesales-week.PNG)
