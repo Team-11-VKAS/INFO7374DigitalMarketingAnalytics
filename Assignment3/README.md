@@ -1,5 +1,9 @@
 # Marketa Analytics
 
+# Objective
+We are given a dataset about the sales model for a company and we need to understand and provide our insights on the same
+![](https://github.com/Team-11-VKAS/INFO7374DigitalMarketingAnalytics/blob/master/Assignment3/images/table_definition.PNG)
+
 # Clat Document
 https://docs.google.com/document/d/1DLM4eJ_ZYoxjd5eog_X3P22VM0B1l3M9zBS8Ym2FdV8/edit#heading=h.7sa4zxkhmsum
 
@@ -12,3 +16,11 @@ b. Carry over effect or Decay Effect: The impact of past advertisement on presen
 
 # Relation of sales to weeks
  ![](https://github.com/Team-11-VKAS/INFO7374DigitalMarketingAnalytics/blob/master/Assignment3/images/basesales-week.PNG)
+ 
+ # Dashboards
+ We have the following dashboards:
+ 
+ ![](https://github.com/Team-11-VKAS/INFO7374DigitalMarketingAnalytics/blob/master/Assignment3/images/dashboard1.PNG)
+ ![](https://github.com/Team-11-VKAS/INFO7374DigitalMarketingAnalytics/blob/master/Assignment3/images/dashboard2.PNG)
+ ![](https://github.com/Team-11-VKAS/INFO7374DigitalMarketingAnalytics/blob/master/Assignment3/images/basesSalesDashboard.PNG)
+ 
