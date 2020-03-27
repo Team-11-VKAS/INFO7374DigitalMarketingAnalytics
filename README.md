@@ -11,4 +11,4 @@ Dashboard for Marketa Analytics
    Understand the effect of adstock marketting strategy on the sales over a given period of time and develop a dashboard to demonstrate the impact of tv ads versus the radio ads.
    
  # Assignment 4
- Recommendation Model using Vowpal Wobbit
+ Recommendation Model using Vowpal Wabbit
