@@ -1,4 +1,4 @@
-# 24X7 Marketting Analytics
+# 24X7 Marketing Analytics
 
 # Clat Document
 
