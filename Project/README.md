@@ -58,3 +58,11 @@ To remove any kind of anomalies in the dataset (remove null values, duplicate va
 
 We have used pandas, xsv and trifacta in the event of pre-processing our data for the purpose of building the dashboard.
 
+# Key Features
+Create a Market Analytics Environment
+Calculate CLV 
+Find the churn rate and purchase frequency
+Find Customer Acquisition Cost
+Customer Segmentation
+Stock preddictive Analysis
+Dashboard using streamlit
