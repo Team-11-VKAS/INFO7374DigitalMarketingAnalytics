@@ -12,3 +12,9 @@ Dashboard for Marketa Analytics
    
  # Assignment 4
  Recommendation Model using Vowpal Wabbit
+   Collaboration filtering
+
+ # Project
+   Built and deployed a web-app using flask to demonstrate the effect of marketting patterns on the sale of the products.
+   Deployed the dataset on Amazon S3 and integrated the same with streamlit via python to build dashboards to provide insights about the customer data to help business analyst make business decisions.
+
